@@ -1,2 +1,2 @@
 # myWork
-For learn Github
+For learn Github and Git
